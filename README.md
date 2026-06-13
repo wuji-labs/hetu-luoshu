@@ -1,5 +1,11 @@
 # 河图洛书 HeTu LuoShu — River Chart and Luo Script
 
+<p align="center">
+  <a href="https://www.skills.sh/wuji-labs/hetu-luoshu"><img src="https://www.skills.sh/b/wuji-labs/hetu-luoshu" alt="skills.sh"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://github.com/wuji-labs/huaxia-skills"><img src="https://img.shields.io/badge/%E5%8D%8E%E5%A4%8F%E5%8D%81%E5%A4%A7-HuaXia%20Skills-c1272d" alt="HuaXia Skills"></a>
+</p>
+
 English · [简体中文](README.zh-CN.md)
 
 这是华夏道脉献给世界开源社区的十件礼物之一（叩兩端·无极樞纽）。
