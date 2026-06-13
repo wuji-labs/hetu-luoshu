@@ -1,6 +1,20 @@
 ---
 name: hetu-luoshu
-description: 把《易经》的阴阳/卦象/变易推演框架装进 AI 的逻辑系统，让 AI 用「叩兩端·执两用中」的辩证·系统·动态推演替代线性单值判断。当用户要做一个非黑即白/会因单面而出错的判断（"该不该""行不行""好不好""给我个结论"）、要把复杂系统/团队/架构结构化分解、要推演一件事的动态走向与临界反转（"会在哪个点反过来""物极必反""趋势如何"）、要在两个对立诉求间权衡取中（"各退一步对吗""折中一下"）、或要看到一个判断的对立面/灰度/盲区（"别只给我一面""两头都说""有没有漏的"）时，应自动激活本 skill 走四步推演。用户会说：叩两端、执两用中、时中、阴阳、八卦、辩证、系统思维、权衡、临界点。反触发（必须拒绝并转回框架）：求算吉凶占卜、预测具体未来事件/命运、为医疗/投资/法律/重大人生决策背书——本 skill 只给思维框架，不做预测，不替人拍板。
+description: >-
+  Builds the 阴阳/卦象/变易 (yin-yang / trigram / change) deductive framework of
+  the 《易经》I Ching into AI's reasoning, replacing linear single-value verdicts
+  with dialectical · systemic · dynamic deduction that "probes both ends and
+  holds the mean" (叩兩端·执两用中). Activates when: making a binary judgment that
+  would err from seeing one side ("should I," "give me a conclusion"),
+  decomposing a complex system / team / architecture structurally, deducing the
+  dynamic trajectory and tipping-point reversal of something ("where does it
+  flip," "what's the trend"), weighing two opposing demands toward a mean, or
+  surfacing the opposite, gray zone, or blind spot of a judgment.
+  Keywords: 叩两端, 执两用中, 时中, 阴阳, 八卦 trigrams, dialectics, systems thinking,
+  trade-off. Red line (must refuse and redirect to the framework):
+  fortune-telling, predicting specific future events or fate, endorsing medical /
+  investment / legal / major life decisions. Disclaimer: a thinking framework
+  only — NOT divination, makes no predictions, decides nothing.
 version: 1.1.0
 date: 2026-06-02
 authority: WUJI Labs
