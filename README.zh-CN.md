@@ -1,5 +1,7 @@
 # 河图洛书 HeTu LuoShu — 把《易经》推演框架装进 AI
 
+**[🇨🇳 简体中文](README.zh-CN.md)** · **[🇺🇸 English](README.md)** · **[🇯🇵 日本語](README.ja.md)** · **[🇰🇷 한국어](README.ko.md)** · **[🇪🇸 Español](README.es.md)** · **[🇧🇷 Português](README.pt.md)** · **[🇫🇷 Français](README.fr.md)**
+
 [English](README.md) · 简体中文
 
 > **一陰一陽之謂道。** —《易经·系辞上》
