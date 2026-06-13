@@ -1,0 +1,21 @@
+{
+  "name": "hetu-luoshu-skills",
+  "description": "HeTu LuoShu — install the Yi Jing's dialectical (yin-yang), systemic (eight trigrams), and dynamic (change) reasoning framework into AI. A thinking discipline, not divination. A gift to the world's open-source community.",
+  "owner": {
+    "name": "WUJI",
+    "email": "okeah631@gmail.com",
+    "url": "https://github.com/wuji-labs"
+  },
+  "plugins": [
+    {
+      "name": "hetu-luoshu",
+      "description": "HeTu LuoShu — teach AI to reason in yin-yang, trigrams, and change instead of flat linear verdicts. 叩兩端·执两用中.",
+      "version": "1.1.0",
+      "source": "./",
+      "author": {
+        "name": "WUJI",
+        "url": "https://github.com/wuji-labs"
+      }
+    }
+  ]
+}

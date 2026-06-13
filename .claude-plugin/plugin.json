@@ -1,0 +1,28 @@
+{
+  "name": "hetu-luoshu",
+  "version": "1.1.0",
+  "description": "HeTu LuoShu (河图洛书) — installs the Yi Jing's reasoning framework into AI: yin-yang (hold both poles), trigrams (decompose systems into composable states), change (every static answer must say where it heads). A dialectical/systemic/dynamic thinking discipline, not divination.",
+  "author": "WUJI (wuji-labs)",
+  "homepage": "https://github.com/wuji-labs/hetu-luoshu",
+  "repository": "https://github.com/wuji-labs/hetu-luoshu",
+  "license": "MIT",
+  "keywords": [
+    "yijing",
+    "i-ching",
+    "reasoning",
+    "dialectics",
+    "systems-thinking",
+    "trigrams",
+    "decision-framework",
+    "skill"
+  ],
+  "skills": [
+    { "name": "hetu-luoshu", "path": "SKILL.md", "language": "zh-CN" }
+  ],
+  "agents": [
+    { "name": "hetu-luoshu-deliberator", "path": "agents/hetu-luoshu-deliberator.md" }
+  ],
+  "commands": [
+    { "name": "hetu-luoshu", "path": "commands/hetu-luoshu.md" }
+  ]
+}

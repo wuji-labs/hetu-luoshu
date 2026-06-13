@@ -1,0 +1,28 @@
+{
+  "name": "@labs-skills/hetu-luoshu",
+  "version": "1.1.0",
+  "description": "HeTu LuoShu — install the Yi Jing's dialectical (yin-yang), systemic (eight trigrams), and dynamic (change) reasoning framework into AI. A thinking discipline, not divination.",
+  "author": "WUJI (wuji-labs)",
+  "license": "MIT",
+  "homepage": "https://github.com/wuji-labs/hetu-luoshu",
+  "private": true,
+  "type": "module",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "README.zh-CN.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    ".claude-plugin/",
+    "commands/",
+    "agents/",
+    "examples/",
+    "reference/",
+    "platforms/",
+    "benchmark/"
+  ],
+  "scripts": {
+    "build": "echo no build",
+    "clean": "echo clean"
+  }
+}
