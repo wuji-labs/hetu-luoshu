@@ -8,6 +8,11 @@
 
 **[🇨🇳 简体中文](README.zh-CN.md)** · **[🇺🇸 English](README.md)** · **[🇯🇵 日本語](README.ja.md)** · **[🇰🇷 한국어](README.ko.md)** · **[🇪🇸 Español](README.es.md)** · **🇧🇷 Português** · **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">Digitalize para adicionar o autor no WeChat · Scan to add the author on WeChat</p>
+
 这是华夏道脉献给世界开源社区的十件礼物之一（叩兩端·无极樞纽）。
 我们不立华夏本位，不主张华夏文明优于任何文明；我们只是先从自己最熟悉的道脉开始，
 把它打磨成一件可用的工具，放到人类共同的开源工具架上。未来还会有希腊、那烂陀、
