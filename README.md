@@ -158,3 +158,7 @@ This skill provides a **reasoning framework only** (dialectical · systemic · d
 
 *河图洛书 HeTu LuoShu — by [WUJI](https://github.com/wuji-labs)*
 *一陰一陽之謂道。叩兩端，观其变，求其中 —— gift to the world.*
+
+## 联系 · Contact
+扫码添加无极微信，交流合作 · Scan to add WUJI on WeChat
+<img src="assets/wechat-qr.png" width="200" alt="WUJI WeChat QR">
